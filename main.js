@@ -28,7 +28,7 @@ function Add_Item(){
     Menu_List.sort;
     htmlDATA = "<section class='cards'>"
     for(var j=0;j<Menu_List.length;j++){
-    htmlDATA = htmlDATA+ "<div class='cards'>" + "<img src='images/pizzaImg.png'>" + Menu_List[j] +"</div>";
+    htmlDATA = htmlDATA+ "<div class='cards'>" + "<img src='pizzaImg.png'>" + Menu_List[j] +"</div>";
     htmlDATA = htmlDATA + "</section>";
     }
     document.getElementById("Display_AddedMenu").innerHTML = htmlDATA;
