@@ -1,6 +1,7 @@
 body{
 	background-image: url("images/Bg.jpg");
-	/* background-repeat: no-repeat; */
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .topnav {
@@ -108,10 +109,10 @@ body{
 
 ol .menulist li
 {
-	padding-bottom:20px;
+	padding-bottom: 20px;
 }
 
-.x {
+#x {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;

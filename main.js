@@ -1,9 +1,9 @@
 Menu_List = [
-    "Chicken Tandoori Pizza",
+    "Chicken Tandoori",
     "Tandoori Paneer",
     "Paneer Tikka Pizza",
     "Deluxe Veggie Pizza",
-    "Veg Extravaganza Pizza",
+    "Veg Extravaganza",
     "Peppy Paneer",
     "Veggie Delight",
     "Veg Supreme"
